@@ -4,15 +4,15 @@
 
 This document is intended for both experienced individuals with DAOs and those who are less familiar. It is written with a multi-level approach so that everyone can find useful information. Beginners can focus on the 1-star sections that simplify and explain the concepts in more detail in the 3-star sections. For those with a basic understanding of DeFi and DAOs, the 1 and 2-star sections will help them better understand the context and overall mechanisms. Those experienced with DAOs can skip the 1 and 2-star sections and focus on the 3-star section.
 
-1. [**Introduction to DAOs**](01-Introduction-to-DAOs.md)
+1. [**Introduction to DAOs**](01-introduction-aux-dao.md)
    1. What is a DAO?
    2. Why DAOs are important in the blockchain ecosystem
    3. Advantages and challenges of DAOs
-2. [**The RealToken DAO: Overview**](02-The-RealToken-DAO.md)
+2. [**The RealToken DAO: Overview**](02-la-dao-realtoken.md)
    1. Objectives and vision of the RealToken DAO
    2. General structure and functioning
    3. Role of REG holders in the ecosystem
-3. [**Phase 1: Setup and Objectives**](03-Phase-1-setup-and-objectives.md)
+3. [**Phase 1: Setup and Objectives**](03-phase-1-mise-en-place-et-objectif.md)
    1. Explanation of the simplified version
    2. Setup process
    3. Short and medium-term objectives
