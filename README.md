@@ -1,39 +1,39 @@
-# Guide de la DAO RealToken pour les détenteurs de REG
+# RealToken DAO Guide for REG Holders
 
-## Préambule
+## Preamble
 
-Le document s'adresse aux personnes expérimentés, avec les DAO, ainsi qu'à celles qui le sont moins. Ce document est rédigé avec une approche multi-niveaux, pour que tout le monde puisse y trouver des informations utiles. Les novices peuvent se contenter des parties à 1 étoile qui vulgarise et simplifie les concepts expliqués plus en détail dans les parties à 3 étoiles. Pour les personnes disposant d'une base dans la DeFi et la DAO, la partie à 1 et 2 étoiles leur permettront de mieux comprendre le contexte et les mécanismes globaux. Les personnes expérimentée avec les DAO peuvent sauter les parties à 1 et 2 étoiles et se concentrer sur la partie a 3 étoiles.
+This document is intended for both experienced individuals with DAOs and those who are less familiar. It is written with a multi-level approach so that everyone can find useful information. Beginners can focus on the 1-star sections that simplify and explain the concepts in more detail in the 3-star sections. For those with a basic understanding of DeFi and DAOs, the 1 and 2-star sections will help them better understand the context and overall mechanisms. Those experienced with DAOs can skip the 1 and 2-star sections and focus on the 3-star section.
 
-1. [**Introduction aux DAO**](01-introduction-aux-dao.md)
-   1. Qu'est-ce qu'une DAO ?
-   2. Pourquoi les DAO sont importantes dans l'écosystème blockchain
-   3. Avantages et défis des DAO
-2. [**La DAO RealToken : Vue d'ensemble**](02-la-dao-realtoken.md)
-   1. Objectifs et vision de la DAO RealToken
-   2. Structure et fonctionnement général
-   3. Rôle des détenteurs de REG dans l'écosystème
-3. [**Phase 1 : Mise en place et objectifs**](03-phase-1-mise-en-place-et-objectif.md)
-   1. Explication de la version simplifiée
-   2. Processus de mise en place
-   3. Objectifs à court et moyen terme
-   4. Comment participer à cette phase initiale
-4. **Fonctionnement technique de la DAO**
-   1. Smart Contracts principaux
-      1. Contrat de gouvernance
-      2. Contrat de vote
-      3. Contrat d'incitation
-   2. Mécanismes de vote et de proposition
-   3. Système d'incitation et de récompense
-5. **Guide pratique pour les détenteurs de REG**
-   1. Comment participer aux votes
-   2. Création et soumission de propositions
-   3. Réclamation des récompenses
-   4. Bonnes pratiques et conseils
-6. **Perspectives d'avenir**
-   1. Évolutions prévues de la DAO
-   2. Opportunités pour la communauté
-   3. Comment contribuer au développement de la DAO
-7. **Ressources et support**
-   1. Documentation technique
-   2. Canaux de communication
+1. [**Introduction to DAOs**](01-Introduction-to-DAOs.md)
+   1. What is a DAO?
+   2. Why DAOs are important in the blockchain ecosystem
+   3. Advantages and challenges of DAOs
+2. [**The RealToken DAO: Overview**](02-The-RealToken-DAO.md)
+   1. Objectives and vision of the RealToken DAO
+   2. General structure and functioning
+   3. Role of REG holders in the ecosystem
+3. [**Phase 1: Setup and Objectives**](03-Phase-1-setup-and-objectives.md)
+   1. Explanation of the simplified version
+   2. Setup process
+   3. Short and medium-term objectives
+   4. How to participate in this initial phase
+4. **Technical Operation of the DAO**
+   1. Main Smart Contracts
+      1. Governance contract
+      2. Voting contract
+      3. Incentive contract
+   2. Voting and proposal mechanisms
+   3. Incentive and reward system
+5. **Practical Guide for REG Holders**
+   1. How to participate in votes
+   2. Creating and submitting proposals
+   3. Claiming rewards
+   4. Best practices and tips
+6. **Future Perspectives**
+   1. Planned evolutions of the DAO
+   2. Opportunities for the community
+   3. How to contribute to the development of the DAO
+7. **Resources and Support**
+   1. Technical documentation
+   2. Communication channels
    3. FAQ
